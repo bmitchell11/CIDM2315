@@ -82,7 +82,7 @@ class Program
     }
 
     
-    // Question 3 Method 2
+        // Question 3 Method 2
     static bool CheckAge(int birth_year)
     {
         int age = (2023-birth_year);
