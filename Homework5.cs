@@ -42,7 +42,7 @@ class Program
 
 
 
-    
+    // Question 1 & 2 Method
     static int LargestNumber(int a, int b)
     {
         if(a>b){
